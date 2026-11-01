@@ -1,0 +1,11 @@
+# Local credentials and per-board settings
+**/MyWifi.h
+**/ssid_info.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
