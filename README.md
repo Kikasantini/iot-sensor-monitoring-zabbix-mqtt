@@ -49,4 +49,14 @@ The `.gitignore` excludes local `MyWifi.h` and `ssid_info.py` files so credentia
 
 ## Media
 
-The project demonstration video is in `media/project-demo.mp4`. The architecture diagram and wiring diagram are included in the local draft pending the image selection for the public repository and portfolio.
+### Conceptual architecture
+
+![Conceptual architecture of the three microcontrollers, Mosquitto, Zabbix and sensor data flow](media/conceptual-architecture.png)
+
+### Electronic wiring
+
+![Electronic wiring diagram for the three microcontroller boards and their sensors](media/electronic-wiring.png)
+
+### Demonstration video
+
+[Watch the full project demonstration](media/project-demo.mp4).
